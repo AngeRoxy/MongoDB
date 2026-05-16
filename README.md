@@ -7,7 +7,7 @@
 ![Insert](screenshot/insertion.png)
 
 2. Afficher tous les contacts
-![Find All](screenshot/affichage%20de%20tous%20les%20contacts.png)
+![Find All](screenshot/toute%20la%20liste%20contact.png)
 
  3. Recherche par ID
 ![Find by ID](screenshot/affichage%20par%20ID.png)
@@ -25,4 +25,5 @@
 ![Delete](screenshot/suppression%20contact%20moins%20de%205ans.png)
 
  8. Liste finale
-![Final](screenshot/toute%20la%20liste%20contact.png)
+![Final](screenshot/affichage%20de%20tous%20les%20contacts.png)
+
